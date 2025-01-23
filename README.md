@@ -30,7 +30,7 @@ Trong Dự án này, chúng tôi hướng đến giải quyết các vấn đề
 - Eclipse dành cho Java EE Developers và Tomcat server. 
 - MySQL Workbench.
 2. **Sau đó lấy mã từ kho lưu trữ GitHub này trên hệ thống của bạn. Bạn có thể sao chép kho lưu trữ này hoặc tải xuống dưới dạng tệp zip.**
-- link github: https://github.com/vannam17/Hospital_management.git
+- link github: https://github.com/thanhtu186/Hospital_management.git
 3. **Cài đặt cơ sở dữ liệu:** Tạo cơ sở dữ liệu trong MySQL và nhập các bảng cần thiết từ các file SQL có sẵn trong thư mục database
 4. **Thiết lập kết nội cơ sở dữ liệu :**  Truy cập vào đường dẫn để thay đổi username và password phù hợp theo máy của bạn
   \hospital\src\main\java\com\db\DBConnect.java
@@ -40,46 +40,46 @@ Trong Dự án này, chúng tôi hướng đến giải quyết các vấn đề
 
 **1. Trang chủ**
 
-![Trang chủ](https://github.com/vannam17/Hospital_management/blob/main/src/main/webapp/img/home.png)
+![Trang chủ](https://github.com/thanhtu186/Hospital_management/blob/main/src/main/webapp/img/home.png)
 
 **2. Đăng nhập người dùng**
 
-![Đăng nhập](https://github.com/vannam17/Hospital_management/blob/main/src/main/webapp/img/signin.png)
+![Đăng nhập](https://github.com/thanhtu186/Hospital_management/blob/main/src/main/webapp/img/signin.png)
 
 **3. Đăng ký người dùng**
 
-![Đăng ký](https://github.com/vannam17/Hospital_management/blob/main/src/main/webapp/img/signup.png)
+![Đăng ký](https://github.com/thanhtu186/Hospital_management/blob/main/src/main/webapp/img/signup.png)
 
 **4. Trang đặt lịch hẹn**
 
-![Đặt lịch hẹn](https://github.com/vannam17/Hospital_management/blob/main/src/main/webapp/img/dat_lich_kham.png)
+![Đặt lịch hẹn](https://github.com/thanhtu186/Hospital_management/blob/main/src/main/webapp/img/dat_lich_kham.png)
 
 **5. Lịch sử các cuộc hẹn trước**
 
-![Lịch sử hẹn](https://github.com/vannam17/Hospital_management/blob/main/src/main/webapp/img/xem_lich_kham.png)
+![Lịch sử hẹn](https://github.com/thanhtu186/Hospital_management/blob/main/src/main/webapp/img/xem_lich_kham.png)
 
 **6. Trang chi tiết bệnh nhân**
 
-![chi tiết bệnh nhân](https://github.com/vannam17/Hospital_management/blob/main/src/main/webapp/img/xem_chi_tiet.png)
+![chi tiết bệnh nhân](https://github.com/thanhtu186/Hospital_management/blob/main/src/main/webapp/img/xem_chi_tiet.png)
 
 **7. Trang chủ bác sĩ**
 
-![Trang bác sĩ](https://github.com/vannam17/Hospital_management/blob/main/src/main/webapp/img/Trang_bs.png)
+![Trang bác sĩ](https://github.com/thanhtu186/Hospital_management/blob/main/src/main/webapp/img/Trang_bs.png)
 
 **8. Trang thay đổi hồ sơ cá nhân**
 
-![thay đổi hồ sơ](https://github.com/vannam17/Hospital_management/blob/main/src/main/webapp/img/trang_thay_doi_ho_so_ca_nhan.png)
+![thay đổi hồ sơ](https://github.com/thanhtu186/Hospital_management/blob/main/src/main/webapp/img/trang_thay_doi_ho_so_ca_nhan.png)
 
 **9. Trang quản trị viên**
 
-![Trang quản trị viên](https://github.com/vannam17/Hospital_management/blob/main/src/main/webapp/img/trang_admin.png)
+![Trang quản trị viên](https://github.com/thanhtu186/Hospital_management/blob/main/src/main/webapp/img/trang_admin.png)
 
 **10. Trang quản lý bệnh nhân**
 
-![Trang quảnlý bệnh nhân](https://github.com/vannam17/Hospital_management/blob/main/src/main/webapp/img/ql_bn.png)
+![Trang quảnlý bệnh nhân](https://github.com/thanhtu186/Hospital_management/blob/main/src/main/webapp/img/ql_bn.png)
 
 **11. Trang quản lý bác sĩ**
 
-![Trang quản lý bác sĩ ](https://github.com/vannam17/Hospital_management/blob/main/src/main/webapp/img/ql_bs.png)
+![Trang quản lý bác sĩ ](https://github.com/thanhtu186/Hospital_management/blob/main/src/main/webapp/img/ql_bs.png)
 ---
 ### Cảm ơn bạn!
