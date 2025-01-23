@@ -80,6 +80,6 @@ Trong Dự án này, chúng tôi hướng đến giải quyết các vấn đề
 
 **11. Trang quản lý bác sĩ**
 
-![Trang quản lý bác sĩ ](https://github.com/thanhtu186/Hospital_management/blob/main/src/main/webapp/img/ql_bs.png)
+![Trang quản lý bác sĩ ](https://github.com/thanhtu186/HMS/blob/main/src/main/webapp/img/ql_bs.png)
 ---
 ### Cảm ơn bạn!
