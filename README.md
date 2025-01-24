@@ -40,7 +40,7 @@ Trong Dự án này, chúng tôi hướng đến giải quyết các vấn đề
 
 **1. Trang chủ**
 
-![Trang chủ](src\main\webapp\img\home.png)
+![Trang chủ](/src/main/webapp/img/home.png)
 
 **2. Đăng nhập người dùng**
 
