@@ -40,46 +40,46 @@ Trong Dự án này, chúng tôi hướng đến giải quyết các vấn đề
 
 **1. Trang chủ**
 
-![Trang chủ](https://github.com/thanhtu186/HMS/blob/main/src/main/webapp/img/home.png)
+![Trang chủ](src\main\webapp\img\home.png)
 
 **2. Đăng nhập người dùng**
 
-![Đăng nhập](https://github.com/thanhtu186/HMS/blob/main/src/main/webapp/img/signin.png)
+![Đăng nhập](src/main/webapp/img/signin.png)
 
 **3. Đăng ký người dùng**
 
-![Đăng ký](https://github.com/thanhtu186/HMS/blob/main/src/main/webapp/img/signup.png)
+![Đăng ký](src/main/webapp/img/signup.png)
 
 **4. Trang đặt lịch hẹn**
 
-![Đặt lịch hẹn](https://github.com/thanhtu186/HMS/blob/main/src/main/webapp/img/dat_lich_kham.png)
+![Đặt lịch hẹn](/src/main/webapp/img/dat_lich_kham.png)
 
 **5. Lịch sử các cuộc hẹn trước**
 
-![Lịch sử hẹn](https://github.com/thanhtu186/HMS/blob/main/src/main/webapp/img/xem_lich_kham.png)
+![Lịch sử hẹn](/src/main/webapp/img/xem_lich_kham.png)
 
 **6. Trang chi tiết bệnh nhân**
 
-![chi tiết bệnh nhân](https://github.com/thanhtu186/HMS/blob/main/src/main/webapp/img/xem_chi_tiet.png)
+![chi tiết bệnh nhân](/src/main/webapp/img/xem_chi_tiet.png)
 
 **7. Trang chủ bác sĩ**
 
-![Trang bác sĩ](https://github.com/thanhtu186/HMS/blob/main/src/main/webapp/img/Trang_bs.png)
+![Trang bác sĩ](/src/main/webapp/img/Trang_bs.png)
 
 **8. Trang thay đổi hồ sơ cá nhân**
 
-![thay đổi hồ sơ](https://github.com/thanhtu186/HMS/blob/main/src/main/webapp/img/trang_thay_doi_ho_so_ca_nhan.png)
+![thay đổi hồ sơ](/src/main/webapp/img/trang_thay_doi_ho_so_ca_nhan.png)
 
 **9. Trang quản trị viên**
 
-![Trang quản trị viên](https://github.com/thanhtu186/HMS/blob/main/src/main/webapp/img/trang_admin.png)
+![Trang quản trị viên](/src/main/webapp/img/trang_admin.png)
 
 **10. Trang quản lý bệnh nhân**
 
-![Trang quảnlý bệnh nhân](https://github.com/thanhtu186/HMS/blob/main/src/main/webapp/img/ql_bn.png)
+![Trang quảnlý bệnh nhân](/src/main/webapp/img/ql_bn.png)
 
 **11. Trang quản lý bác sĩ**
 
-![Trang quản lý bác sĩ ](https://github.com/thanhtu186/HMS/blob/main/src/main/webapp/img/ql_bs.png)
+![Trang quản lý bác sĩ ](/src/main/webapp/img/ql_bs.png)
 ---
 ### Cảm ơn bạn!
