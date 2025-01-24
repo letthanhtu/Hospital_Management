@@ -44,11 +44,11 @@ Trong Dự án này, chúng tôi hướng đến giải quyết các vấn đề
 
 **2. Đăng nhập người dùng**
 
-![Đăng nhập](src/main/webapp/img/signin.png)
+![Đăng nhập](/src/main/webapp/img/signin.png)
 
 **3. Đăng ký người dùng**
 
-![Đăng ký](src/main/webapp/img/signup.png)
+![Đăng ký](/src/main/webapp/img/signup.png)
 
 **4. Trang đặt lịch hẹn**
 
